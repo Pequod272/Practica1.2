@@ -1,1 +1,1 @@
-# Practica1.2
+# Projecte demo per a fer una tasca amb Jenkins
